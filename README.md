@@ -1,9 +1,9 @@
 # Lead Intent Scorer Backend
 
 ## 🚀 Live API Base URL
-Add your deployed API base URL here for testing:
+Live API base URL for testing:
 
-`https://your-deployed-api-url.com`
+`https://ai-lead-qualifier-kvge.onrender.com/`
 
 # Lead Intent Scorer Backend
 
